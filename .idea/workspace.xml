@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de3a1c4d-2766-47e2-a273-05b31dc7482e" name="Changes" comment="第一次提交左神代码">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowcoder2019Basic/class01/Code01_SeclectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Nowcoder2019Basic/class01/Code01_SeclectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
