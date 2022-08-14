@@ -29,6 +29,7 @@ public class Code01_SeclectionSort {
     public static void main(String[] argv) {
         int[] arr = {5, 4, 3, 2, 1};
         selectionSort(arr);
+
         System.out.println(Arrays.toString(arr));
     }
 }
